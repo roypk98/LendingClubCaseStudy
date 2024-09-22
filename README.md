@@ -13,11 +13,9 @@
 - **Business Problem**: The primary objective of this analysis is to determine which borrower characteristics are associated with higher chances of loan default. By identifying these factors, Lending Club can enhance its underwriting process and mitigate risks.
 - **Dataset**: This project utilizes the Lending Club dataset, which includes information on loan applications, borrower credit histories, loan performance, and demographic data.
 
-## Conclusions
-- **Conclusion 1**: Higher credit scores correlate with lower default rates, highlighting the importance of creditworthiness in loan approval.
-- **Conclusion 2**: The purpose of the loan significantly impacts default rates, with debt consolidation loans having higher default risks compared to home improvement loans.
-- **Conclusion 3**: Borrowers with higher income levels tend to have lower default rates, suggesting that income stability is a key factor in loan repayment.
-- **Conclusion 4**: The analysis indicates that loan term length does not have a strong correlation with default rates, implying that other factors may be more significant in risk assessment.
+## comclusion
+
+Need to update conclusion at the end
 
 ## Technologies Used
 - Pandas - version 1.2.4
